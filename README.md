@@ -1,6 +1,7 @@
 # Hi, I'm Ajay 👋
 
 Aspiring Data Analyst with hands-on experience in SQL, Power BI, and Tableau.
+I enjoy turning raw data into meaningful insights that drive business decisions.
 
 ---
 
@@ -19,16 +20,24 @@ Aspiring Data Analyst with hands-on experience in SQL, Power BI, and Tableau.
 
 ---
 
-## 🛠 Skills
+## 🛠 Tools & Technologies
 
-* SQL
-* Power BI
-* Tableau
-* Excel
+* **Languages:** SQL
+* **Visualization:** Power BI, Tableau
+* **Data Handling:** Excel, CSV
+* **Concepts:** Data Cleaning, KPI Analysis, Data Modeling
+
+---
+
+## 📈 What I Bring
+
+* Ability to analyze business problems using data
+* Strong understanding of KPIs and performance metrics
+* Experience in building dashboards for decision-making
 
 ---
 
 ## 🎯 Goal
 
-To secure a Data Analyst role and build data-driven solutions.
+To secure a Data Analyst role and contribute to data-driven business decisions.
 
